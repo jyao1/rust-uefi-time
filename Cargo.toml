@@ -8,4 +8,4 @@ edition = "2018"
 
 [dependencies]
 chrono = {version = "0.4", default-features = false}
-x86 = "0.34.0"
+x86 = "0.41.0"
